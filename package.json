@@ -6,6 +6,9 @@
   },
   "dependencies": {
     "@hono/node-server": "^1.13.8",
+    "@prisma/client": "^6.5.0",
+    "@types/express": "^5.0.1",
+    "express": "^4.21.2",
     "hono": "^4.7.5",
     "nitrogen": "file:"
   },
